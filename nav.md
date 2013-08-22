@@ -23,8 +23,24 @@
 	*	[VWA](http://www.vivotek.com/web/support/vwa.aspx)
 	*	[VEC](http://www.vivotek.com/web/support/vec.aspx)
 	*	[VPE (N.America)](http://www.vivotek.com/web/support/vpe.aspx)
-*	Downloads
-*	Events
+*	[Downloads](http://www.vivotek.com/web/download/download.aspx)
+	*	Alignment Sticker
+	*	Brochure
+	*	Catalogue
+	*	Datasheets
+	*	Firmware
+	*	Flyer
+	*	Handbook
+	*	Logo
+	*	Plug-in
+	*	Product Images
+	*	Quick Guides
+	*	Software
+	*	User's Manuals
+	*	Video Clips
+	*	Wall Paper
+	*	White Paper
+*	[Events](http://www.vivotek.com/web/events/tradeshow.aspx)
 *	Press Room
 	*	[News](http://www.vivotek.com/web/pressroom/news.aspx)
 	*	[Success Stories](http://www.vivotek.com/web/pressroom/successstories.aspx)
